@@ -1,0 +1,11 @@
+"# ------------------------------------"
+"Report: User Engagement"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2016-01-01 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_nwcbwurx"
+"# ------------------------------------"
+name,full_name,unique_videos,count_plays,sum_time_viewed,avg_time_viewed,avg_view_drop_off,count_loads,load_play_ratio,avg_completion_rate,count_viral,total_completion_rate
+Unknown,,1,446,8889.1166666667,19.930754857997,0.37219730941704,882,0.50566893424036,0,0,0
+yealexandrach@gmail.com,"Yenny Alexandra Chaverra",1,1,0,0,0,3,0.33333333333333,0,0,0
+bgiles@dimtec.com,"Bryan Giles",1,0,0,0,0,4,0,0,0,0
+

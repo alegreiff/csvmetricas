@@ -1,0 +1,15 @@
+"# ------------------------------------"
+"Report: Top Domains"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2016-01-01 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_mr5ses3h"
+"# ------------------------------------"
+object_id,domain_name,count_plays,sum_time_viewed,avg_time_viewed,count_loads,load_play_ratio,avg_view_drop_off,avg_completion_rate
+www.retinalatina.org,www.retinalatina.org,825,30165.25,36.563939393939,1249,0.66052842273819,0.44515151515152,0
+retinalatina.org,retinalatina.org,170,6489.05,38.170882352941,270,0.62962962962963,0.46470588235294,0
+Unknown,Unknown,5,82.133333333333,16.426666666667,21,0.23809523809524,0.2,0
+www.kaltura.com,www.kaltura.com,2,102.7,51.35,3,0.66666666666667,0.625,0
+cdnapi.kaltura.com,cdnapi.kaltura.com,1,0,0,1,1,0,0
+kmc.kaltura.com,kmc.kaltura.com,1,0,0,2,0.5,0,0
+cine.presencia.co,cine.presencia.co,0,0,0,5,0,0,0
+

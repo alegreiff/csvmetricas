@@ -1,0 +1,13 @@
+"# ------------------------------------"
+"Report: Devices Overview"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2016-01-01 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_66zuty5i"
+"# ------------------------------------"
+device,count_plays,sum_time_viewed,avg_time_viewed,count_loads,load_play_ratio,avg_view_drop_off,unique_known_users
+Computer,5181,174936.81666667,33.765067876214,9367,0.55311198889719,0.37405906195715,2
+Mobile,651,15413.033333333,23.675934459805,1304,0.49923312883436,0.26228878648233,1
+Tablet,230,6882.8333333333,29.925362318841,434,0.52995391705069,0.33152173913043,1
+"Game console",5,90.266666666667,18.053333333333,7,0.71428571428571,0.2,1
+Unknown,0,0,0,2,0,0,1
+

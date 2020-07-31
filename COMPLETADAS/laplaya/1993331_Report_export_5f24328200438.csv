@@ -1,0 +1,12 @@
+"# ------------------------------------"
+"Report: Devices Overview"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2016-01-01 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_m0lwvgxb"
+"# ------------------------------------"
+device,count_plays,sum_time_viewed,avg_time_viewed,count_loads,load_play_ratio,avg_view_drop_off,unique_known_users
+Computer,4791,185492.71666667,38.716910178807,8461,0.56624512468975,0.4353475266124,2
+Mobile,521,15874.6,30.469481765835,979,0.53217568947906,0.3426103646833,1
+Tablet,186,6380.9833333333,34.306362007168,373,0.49865951742627,0.38575268817204,1
+"Game console",10,422.43333333333,42.243333333333,15,0.66666666666667,0.475,1
+

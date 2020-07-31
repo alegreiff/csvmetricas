@@ -1,0 +1,12 @@
+"# ------------------------------------"
+"Report: Devices Overview"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2016-01-01 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_6yiftnsa"
+"# ------------------------------------"
+device,count_plays,sum_time_viewed,avg_time_viewed,count_loads,load_play_ratio,avg_view_drop_off,unique_known_users
+Computer,5216,211718.71666667,40.590244759714,8235,0.63339404978749,0.43625383435583,2
+Mobile,1263,36565.916666667,28.951636315651,2113,0.59772834831992,0.31175771971496,1
+Tablet,265,8606.3333333333,32.476729559748,451,0.58758314855876,0.34905660377358,1
+"Game console",5,93.05,18.61,5,1,0.2,1
+

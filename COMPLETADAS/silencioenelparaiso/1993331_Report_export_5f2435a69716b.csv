@@ -1,0 +1,16 @@
+"# ------------------------------------"
+"Report: Top Domains"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2016-01-01 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_nbz5nc6l"
+"# ------------------------------------"
+object_id,domain_name,count_plays,sum_time_viewed,avg_time_viewed,count_loads,load_play_ratio,avg_view_drop_off,avg_completion_rate
+www.retinalatina.org,www.retinalatina.org,606,30636.783333333,50.555748074807,982,0.61710794297352,0.54372937293729,0
+retinalatina.org,retinalatina.org,64,2254.75,35.23046875,175,0.36571428571429,0.37890625,0
+Unknown,Unknown,2,0,0,4,0.5,0,0
+www.kaltura.com,www.kaltura.com,2,92.983333333333,46.491666666667,6,0.33333333333333,0.5,0
+kmc.kaltura.com,kmc.kaltura.com,0,0,0,3,0,0,0
+reti.na,reti.na,0,0,0,2,0,0,0
+www.google.com,www.google.com,0,0,0,8,0,0,0
+www.google.com.mx,www.google.com.mx,0,0,0,2,0,0,0
+

@@ -1,0 +1,13 @@
+"# ------------------------------------"
+"Report: User Engagement"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2016-03-04 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"# ------------------------------------"
+name,full_name,unique_videos,count_plays,sum_time_viewed,avg_time_viewed,avg_view_drop_off,count_loads,load_play_ratio,avg_completion_rate,count_viral,total_completion_rate
+Unknown,,541,718185,16552303,23.047408397558,0.47220423706984,1293873,0.55506606908097,30.509854703175,1,101
+yealexandrach@gmail.com,"Yenny Alexandra Chaverra",503,652,10394.9,15.943098159509,0.43481595092025,2338,0.27887082976903,20.21472392638,1,100
+bgiles@dimtec.com,"Bryan Giles",331,121,3664.8833333333,30.288292011019,0.5702479338843,666,0.18168168168168,0.66942148760331,0,76
+support@dimtec.freshdesk.com,"CCD Dimtec",17,3,0,0,0,126,0.023809523809524,0,0,0
+support@dimtec.freshdesk.com,"CCD Dimtec",1,0,0,0,0,1,0,0,0,0
+Error,,1,0,16.616666666667,0,0,0,0,0,0,14
+

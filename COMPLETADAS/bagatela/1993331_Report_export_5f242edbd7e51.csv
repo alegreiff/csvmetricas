@@ -1,0 +1,39 @@
+"# ------------------------------------"
+"Report: Top Countries"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2016-01-01 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_uunn6upy"
+"# ------------------------------------"
+object_id,country,coordinates,count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,unique_known_users,avg_view_drop_off,count_loads
+CO,Colombia,4/-73.25,669,444,392,341,96,0.14349775784753,1,0.47571001494768,1172
+MX,Mexico,23/-102,71,26,18,15,7,0.098591549295775,1,0.23239436619718,318
+AR,Argentina,'-34/-64,34,23,19,15,7,0.20588235294118,1,0.47058823529412,71
+BR,Brazil,'-10/-55,23,6,6,5,0,0,1,0.18478260869565,55
+PE,Peru,'-10/-75.25,18,6,6,4,1,0.055555555555556,1,0.23611111111111,35
+EC,Ecuador,'-1.25/-78.25,8,3,3,2,1,0.125,1,0.28125,17
+CL,Chile,'-30/-71,5,0,0,0,0,0,1,0,12
+BO,"Bolivia, Plurinational State of",'-17/-65,2,1,1,1,0,0,1,0.375,2
+CR,"Costa Rica",10/-84,2,1,1,1,1,0.5,1,0.5,3
+PA,Panama,9/-80,2,2,1,1,0,0,1,0.5,4
+ES,Spain,40/-4,2,2,2,2,0,0,1,0.75,15
+UY,Uruguay,'-33/-56,2,2,0,0,0,0,1,0.25,10
+SV,"El Salvador",13.83333/-88.91667,1,1,1,1,0,0,1,0.75,2
+GT,Guatemala,15.5/-90.25,1,0,0,0,0,0,1,0,1
+NI,Nicaragua,13/-85,1,0,0,0,0,0,1,0,1
+PR,"Puerto Rico",18.24829/-66.49989,1,1,1,1,0,0,1,0.75,2
+US,"United States",39.76/-98.5,1,0,0,0,0,0,1,0,23
+VE,"Venezuela, Bolivarian Republic of",8/-66,1,0,0,0,0,0,1,0,3
+BE,Belgium,50.75/4.5,0,0,0,0,0,0,0,0,1
+CA,Canada,60.10867/-113.64258,0,0,0,0,0,0,0,0,2
+DK,Denmark,56/10,0,0,0,0,0,0,0,0,2
+FR,France,46/2,0,0,0,0,0,0,0,0,12
+DE,Germany,51.5/10.5,0,0,0,0,0,0,0,0,4
+IE,Ireland,53/-8,0,0,0,0,0,0,0,0,1
+IT,Italy,42.83333/12.83333,0,0,0,0,0,0,0,0,3
+NL,Netherlands,52.25/5.75,0,0,0,0,0,0,0,0,3
+NZ,"New Zealand",'-42/174,0,0,0,0,0,0,0,0,2
+PL,Poland,52/20,0,0,0,0,0,0,0,0,1
+PT,Portugal,39.6945/-8.13057,0,0,0,0,0,0,0,0,2
+SE,Sweden,62/15,0,0,0,0,0,0,0,0,3
+UK,"United Kingdom",54.75844/-2.69531,0,0,0,0,0,0,0,0,5
+

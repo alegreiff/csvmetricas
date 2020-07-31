@@ -1,0 +1,18 @@
+"# ------------------------------------"
+"Report: Top Domains"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2016-01-01 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_nwcbwurx"
+"# ------------------------------------"
+object_id,domain_name,count_plays,sum_time_viewed,avg_time_viewed,count_loads,load_play_ratio,avg_view_drop_off,avg_completion_rate
+www.retinalatina.org,www.retinalatina.org,308,6385.6333333333,20.732575757576,530,0.5811320754717,0.38717532467532,0
+retinalatina.org,retinalatina.org,127,2463.3166666667,19.396194225722,273,0.46520146520147,0.36220472440945,0
+localhost,localhost,5,0,0,54,0.092592592592593,0,0
+Unknown,Unknown,4,0,0,7,0.57142857142857,0,0
+www.kaltura.com,www.kaltura.com,2,40.166666666667,20.083333333333,3,0.66666666666667,0.375,0
+kmc.kaltura.com,kmc.kaltura.com,1,0,0,7,0.14285714285714,0,0
+reti.na,reti.na,0,0,0,3,0,0,0
+www.google.com,www.google.com,0,0,0,9,0,0,0
+www.google.com.co,www.google.com.co,0,0,0,2,0,0,0
+www.google.com.mx,www.google.com.mx,0,0,0,1,0,0,0
+

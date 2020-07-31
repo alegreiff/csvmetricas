@@ -1,0 +1,23 @@
+"# ------------------------------------"
+"Report: Top Domains"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2016-01-01 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_m0lwvgxb"
+"# ------------------------------------"
+object_id,domain_name,count_plays,sum_time_viewed,avg_time_viewed,count_loads,load_play_ratio,avg_view_drop_off,avg_completion_rate
+www.retinalatina.org,www.retinalatina.org,4781,187449.23333333,39.207118454995,8254,0.57923431063727,0.4408596527923,14.430663041205
+retinalatina.org,retinalatina.org,703,20476.933333333,29.127927927928,1450,0.4848275862069,0.32752489331437,0.23328591749644
+Unknown,Unknown,12,200.1,16.675,29,0.41379310344828,0.1875,0.58333333333333
+cdnapi.kaltura.com,cdnapi.kaltura.com,3,0,0,3,1,0,0
+cdnapisec.kaltura.com,cdnapisec.kaltura.com,3,0,0,6,0.5,0,0.33333333333333
+kmc.kaltura.com,kmc.kaltura.com,2,44.466666666667,22.233333333333,6,0.33333333333333,0.25,25
+www.kaltura.com,www.kaltura.com,2,0,0,3,0.66666666666667,0,0
+localhost,localhost,1,0,0,4,0.25,0,0
+savemedia.website,savemedia.website,1,0,0,1,1,0,0
+104.236.130.25,104.236.130.25,0,0,0,33,0,0,0
+192.168.1.100,192.168.1.100,0,0,0,2,0,0,0
+cine.presencia.co,cine.presencia.co,0,0,0,5,0,0,0
+latina.test,latina.test,0,0,0,2,0,0,0
+reti.na,reti.na,0,0,0,12,0,0,0
+retinastag.wpengine.com,retinastag.wpengine.com,0,0,0,18,0,0,0
+

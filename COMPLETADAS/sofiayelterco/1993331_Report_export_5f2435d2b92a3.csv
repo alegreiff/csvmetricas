@@ -1,0 +1,11 @@
+"# ------------------------------------"
+"Report: Devices Overview"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2016-01-01 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_mr5ses3h"
+"# ------------------------------------"
+device,count_plays,sum_time_viewed,avg_time_viewed,count_loads,load_play_ratio,avg_view_drop_off,unique_known_users
+Computer,896,33019.733333333,36.852380952381,1383,0.64786695589299,0.44866071428571,2
+Mobile,67,2135.5333333333,31.873631840796,104,0.64423076923077,0.38805970149254,1
+Tablet,41,1683.8666666667,41.069918699187,64,0.640625,0.5,1
+

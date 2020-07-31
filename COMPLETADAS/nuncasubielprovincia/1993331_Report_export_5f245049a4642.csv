@@ -1,0 +1,30 @@
+"# ------------------------------------"
+"Report: Top Countries"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2020-06-16 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 1_39mmc69i"
+"# ------------------------------------"
+object_id,country,coordinates,count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,unique_known_users,avg_view_drop_off,count_loads
+CO,Colombia,4/-73.25,183,105,83,67,23,0.12568306010929,2,0.37978142076503,352
+AR,Argentina,'-34/-64,0,0,0,0,0,0,0,0,33
+BE,Belgium,50.75/4.5,0,0,0,0,0,0,0,0,1
+BO,"Bolivia, Plurinational State of",'-17/-65,0,0,0,0,0,0,0,0,4
+BR,Brazil,'-10/-55,0,0,0,0,0,0,0,0,18
+CA,Canada,60.10867/-113.64258,0,0,0,0,0,0,0,0,10
+CL,Chile,'-30/-71,0,0,0,0,0,0,0,0,27
+CR,"Costa Rica",10/-84,0,0,0,0,0,0,0,0,3
+CZ,"Czech Republic",49.75/15,0,0,0,0,0,0,0,0,1
+EC,Ecuador,'-1.25/-78.25,0,0,0,0,0,0,0,0,13
+FR,France,46/2,0,0,0,0,0,0,0,0,3
+DE,Germany,51.5/10.5,0,0,0,0,0,0,0,0,1
+MX,Mexico,23/-102,0,0,0,0,0,0,0,0,30
+NL,Netherlands,52.25/5.75,0,0,0,0,0,0,0,0,1
+PE,Peru,'-10/-75.25,0,0,0,0,0,0,0,0,15
+PL,Poland,52/20,0,0,0,0,0,0,0,0,1
+PT,Portugal,39.6945/-8.13057,0,0,0,0,0,0,0,0,3
+ES,Spain,40/-4,0,0,0,0,0,0,0,0,4
+UK,"United Kingdom",54.75844/-2.69531,0,0,0,0,0,0,0,0,1
+US,"United States",39.76/-98.5,0,0,0,0,0,0,0,0,10
+UY,Uruguay,'-33/-56,0,0,0,0,0,0,0,0,8
+VE,"Venezuela, Bolivarian Republic of",8/-66,0,0,0,0,0,0,0,0,2
+

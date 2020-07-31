@@ -1,0 +1,14 @@
+"# ------------------------------------"
+"Report: Top Domains"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2016-01-01 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_ouhvm21h"
+"# ------------------------------------"
+object_id,domain_name,count_plays,sum_time_viewed,avg_time_viewed,count_loads,load_play_ratio,avg_view_drop_off,avg_completion_rate
+www.retinalatina.org,www.retinalatina.org,719,28641.783333333,39.835581826611,1090,0.65963302752294,0.44123783031989,0
+retinalatina.org,retinalatina.org,516,18868.666666667,36.567183462532,834,0.61870503597122,0.40503875968992,0
+Unknown,Unknown,13,338.53333333333,26.041025641026,32,0.40625,0.28846153846154,0
+cdnapi.kaltura.com,cdnapi.kaltura.com,1,90.283333333333,90.283333333333,2,0.5,1,0
+kmc.kaltura.com,kmc.kaltura.com,1,0,0,4,0.25,0,0
+www.kaltura.com,www.kaltura.com,0,0,0,2,0,0,0
+

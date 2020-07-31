@@ -1,0 +1,10 @@
+"# ------------------------------------"
+"Report: User Engagement"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2016-01-01 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_m0lwvgxb"
+"# ------------------------------------"
+name,full_name,unique_videos,count_plays,sum_time_viewed,avg_time_viewed,avg_view_drop_off,count_loads,load_play_ratio,avg_completion_rate,count_viral,total_completion_rate
+Unknown,,1,5506,208126.26666667,37.799903135973,0.42503632401017,9822,0.56057829362655,12.56175081729,0,100
+yealexandrach@gmail.com,"Yenny Alexandra Chaverra",1,2,44.466666666667,22.233333333333,0.25,6,0.33333333333333,25,0,50
+

@@ -1,0 +1,11 @@
+"# ------------------------------------"
+"Report: Devices Overview"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2016-01-01 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_jjo2699h"
+"# ------------------------------------"
+device,count_plays,sum_time_viewed,avg_time_viewed,count_loads,load_play_ratio,avg_view_drop_off,unique_known_users
+Computer,259,5107.6666666667,19.720720720721,492,0.52642276422764,0.37162162162162,2
+Tablet,16,358.2,22.3875,25,0.64,0.421875,1
+Mobile,11,132.66666666667,12.060606060606,15,0.73333333333333,0.22727272727273,1
+

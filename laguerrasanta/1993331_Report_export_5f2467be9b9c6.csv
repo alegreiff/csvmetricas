@@ -1,0 +1,30 @@
+"# ------------------------------------"
+"Report: Top Countries"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2020-05-05 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 1_6ew115qi"
+"# ------------------------------------"
+object_id,country,coordinates,count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,unique_known_users,avg_view_drop_off,count_loads
+CO,Colombia,4/-73.25,99,57,47,40,34,0.34343434343434,1,0.44949494949495,235
+MX,Mexico,23/-102,36,27,21,20,19,0.52777777777778,1,0.60416666666667,68
+PE,Peru,'-10/-75.25,19,7,6,6,6,0.31578947368421,1,0.32894736842105,30
+AR,Argentina,'-34/-64,18,10,8,6,5,0.27777777777778,1,0.40277777777778,33
+BR,Brazil,'-10/-55,13,5,5,5,4,0.30769230769231,1,0.36538461538462,27
+UY,Uruguay,'-33/-56,9,3,3,1,1,0.11111111111111,1,0.22222222222222,19
+HN,Honduras,15/-86.5,5,6,5,1,0,0,1,0.6,6
+VE,"Venezuela, Bolivarian Republic of",8/-66,5,3,2,2,2,0.4,1,0.45,6
+SV,"El Salvador",13.83333/-88.91667,4,2,2,2,1,0.25,1,0.4375,5
+EC,Ecuador,'-1.25/-78.25,3,3,3,3,3,1,1,1,7
+CL,Chile,'-30/-71,2,1,1,1,1,0.5,1,0.5,7
+CR,"Costa Rica",10/-84,1,1,1,0,0,0,1,0.5,4
+GT,Guatemala,15.5/-90.25,1,1,1,1,1,1,1,1,2
+AU,Australia,'-25/135,0,0,0,0,0,0,0,0,2
+BE,Belgium,50.75/4.5,0,0,0,0,0,0,0,0,2
+CA,Canada,60.10867/-113.64258,0,0,0,0,0,0,0,0,4
+DK,Denmark,56/10,0,0,0,0,0,0,0,0,1
+FR,France,46/2,0,0,0,0,0,0,0,0,1
+NL,Netherlands,52.25/5.75,0,0,0,0,0,0,0,0,7
+ES,Spain,40/-4,0,0,0,0,0,0,0,0,5
+UK,"United Kingdom",54.75844/-2.69531,0,0,0,0,0,0,0,0,4
+US,"United States",39.76/-98.5,0,0,0,0,0,0,0,0,9
+

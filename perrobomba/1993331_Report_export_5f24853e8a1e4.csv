@@ -1,0 +1,52 @@
+"# ------------------------------------"
+"Report: Top Countries"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2020-04-13 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 1_lv5nbosx"
+"# ------------------------------------"
+object_id,country,coordinates,count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,unique_known_users,avg_view_drop_off,count_loads
+CO,Colombia,4/-73.25,1015,541,458,418,98,0.096551724137931,1,0.37315270935961,1848
+,'-,,9,6,5,4,1,0.11111111111111,1,0.44444444444444,23
+US,"United States",39.76/-98.5,3,2,2,2,0,0,1,0.5,61
+PE,Peru,'-10/-75.25,1,0,0,0,0,0,1,0,154
+AR,Argentina,'-34/-64,0,0,0,0,0,0,0,0,151
+AU,Australia,'-25/135,0,0,0,0,0,0,0,0,5
+AT,Austria,47.33333/13.33333,0,0,0,0,0,0,0,0,1
+BS,Bahamas,25.04082/-77.37122,0,0,0,0,0,0,0,0,1
+BE,Belgium,50.75/4.5,0,0,0,0,0,0,0,0,5
+BO,"Bolivia, Plurinational State of",'-17/-65,0,0,0,0,0,0,0,0,14
+BR,Brazil,'-10/-55,0,1,0,0,0,0,0,0,91
+CA,Canada,60.10867/-113.64258,0,0,0,0,0,0,0,0,21
+CL,Chile,'-30/-71,0,0,0,0,0,0,0,0,243
+CR,"Costa Rica",10/-84,0,0,0,0,0,0,0,0,10
+CZ,"Czech Republic",49.75/15,0,0,0,0,0,0,0,0,1
+DO,"Dominican Republic",19/-70.66667,0,0,0,0,0,0,0,0,2
+EC,Ecuador,'-1.25/-78.25,0,0,0,0,0,0,0,0,63
+SV,"El Salvador",13.83333/-88.91667,0,0,0,0,0,0,0,0,1
+EE,Estonia,59/26,0,0,0,0,0,0,0,0,1
+FR,France,46/2,0,0,0,0,0,0,0,0,33
+DE,Germany,51.5/10.5,0,0,0,0,0,0,0,0,14
+GT,Guatemala,15.5/-90.25,0,0,0,0,0,0,0,0,5
+HN,Honduras,15/-86.5,0,0,0,0,0,0,0,0,1
+HU,Hungary,47/20,0,0,0,0,0,0,0,0,1
+ID,Indonesia,'-5/120,0,0,0,0,0,0,0,0,1
+IE,Ireland,53/-8,0,0,0,0,0,0,0,0,1
+IT,Italy,42.83333/12.83333,0,0,0,0,0,0,0,0,5
+KR,"Korea, Republic of",36.5/127.75,0,0,0,0,0,0,0,0,1
+MX,Mexico,23/-102,0,0,0,0,0,0,0,0,118
+NL,Netherlands,52.25/5.75,0,0,0,0,0,0,0,0,6
+NZ,"New Zealand",'-42/174,0,0,0,0,0,0,0,0,1
+NI,Nicaragua,13/-85,0,0,0,0,0,0,0,0,1
+PA,Panama,9/-80,0,0,0,0,0,0,0,0,10
+PY,Paraguay,'-23.33333/-58,0,0,0,0,0,0,0,0,3
+RO,Romania,46/25,0,0,0,0,0,0,0,0,1
+RU,"Russian Federation",60/100,0,0,0,0,0,0,0,0,1
+ES,Spain,40/-4,0,0,0,0,0,0,0,0,38
+SE,Sweden,62/15,0,0,0,0,0,0,0,0,8
+CH,Switzerland,47.00016/8.01427,0,0,0,0,0,0,0,0,3
+TH,Thailand,15.5/101,0,0,0,0,0,0,0,0,1
+TR,Turkey,39/35,0,0,0,0,0,0,0,0,1
+UK,"United Kingdom",54.75844/-2.69531,0,0,0,0,0,0,0,0,7
+UY,Uruguay,'-33/-56,0,0,0,0,0,0,0,0,44
+VE,"Venezuela, Bolivarian Republic of",8/-66,0,0,0,0,0,0,0,0,6
+

@@ -1,0 +1,31 @@
+"# ------------------------------------"
+"Report: Top Countries"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2020-06-03 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 1_8h9rv8bc"
+"# ------------------------------------"
+object_id,country,coordinates,count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,unique_known_users,avg_view_drop_off,count_loads
+PE,Peru,'-10/-75.25,213,164,152,148,54,0.25352112676056,1,0.60798122065728,298
+CO,Colombia,4/-73.25,111,94,88,83,28,0.25225225225225,1,0.65990990990991,198
+AR,Argentina,'-34/-64,24,16,15,15,6,0.25,1,0.54166666666667,37
+MX,Mexico,23/-102,13,10,10,10,2,0.15384615384615,1,0.61538461538462,21
+EC,Ecuador,'-1.25/-78.25,11,7,5,5,0,0,1,0.38636363636364,15
+CL,Chile,'-30/-71,10,6,5,4,1,0.1,1,0.4,13
+BR,Brazil,'-10/-55,8,6,6,5,3,0.375,1,0.625,10
+UY,Uruguay,'-33/-56,6,5,5,5,0,0,1,0.625,16
+CR,"Costa Rica",10/-84,5,4,4,4,3,0.6,1,0.75,5
+BO,"Bolivia, Plurinational State of",'-17/-65,4,2,2,2,0,0,1,0.375,6
+PA,Panama,9/-80,3,3,2,2,0,0,1,0.58333333333333,3
+ES,Spain,40/-4,2,0,0,0,0,0,1,0,31
+VE,"Venezuela, Bolivarian Republic of",8/-66,2,2,2,2,0,0,1,0.75,3
+SV,"El Salvador",13.83333/-88.91667,1,1,1,1,0,0,1,0.75,1
+BE,Belgium,50.75/4.5,0,0,0,0,0,0,0,0,1
+CA,Canada,60.10867/-113.64258,0,0,0,0,0,0,0,0,2
+FR,France,46/2,0,0,0,0,0,0,0,0,2
+DE,Germany,51.5/10.5,0,0,0,0,0,0,0,0,1
+GT,Guatemala,15.5/-90.25,0,0,0,0,0,0,0,0,2
+RU,"Russian Federation",60/100,0,0,0,0,0,0,0,0,1
+CH,Switzerland,47.00016/8.01427,0,0,0,0,0,0,0,0,1
+UA,Ukraine,49/32,0,0,0,0,0,0,0,0,1
+US,"United States",39.76/-98.5,0,0,0,0,0,0,0,0,6
+

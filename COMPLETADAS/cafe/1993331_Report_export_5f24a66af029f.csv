@@ -1,0 +1,36 @@
+"# ------------------------------------"
+"Report: Top Countries"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2019-07-29 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 1_147c48u6"
+"# ------------------------------------"
+object_id,country,coordinates,count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,unique_known_users,avg_view_drop_off,count_loads
+CO,Colombia,4/-73.25,151,65,49,40,16,0.10596026490066,2,0.28145695364238,356
+MX,Mexico,23/-102,60,31,23,19,6,0.1,1,0.32916666666667,116
+AR,Argentina,'-34/-64,30,13,9,7,4,0.13333333333333,1,0.275,55
+UY,Uruguay,'-33/-56,13,8,6,4,3,0.23076923076923,1,0.40384615384615,23
+BR,Brazil,'-10/-55,10,2,1,1,1,0.1,1,0.125,20
+EC,Ecuador,'-1.25/-78.25,7,1,0,0,0,0,1,0.035714285714286,14
+CL,Chile,'-30/-71,6,3,3,2,0,0,1,0.33333333333333,13
+PE,Peru,'-10/-75.25,6,3,1,0,0,0,1,0.16666666666667,19
+CR,"Costa Rica",10/-84,4,2,1,1,0,0,1,0.25,6
+DO,"Dominican Republic",19/-70.66667,4,1,1,1,1,0.25,1,0.25,5
+BO,"Bolivia, Plurinational State of",'-17/-65,2,1,1,1,0,0,1,0.375,4
+PA,Panama,9/-80,1,1,1,0,0,0,1,0.5,1
+US,"United States",39.76/-98.5,1,0,0,0,0,0,1,0,24
+AU,Australia,'-25/135,0,0,0,0,0,0,0,0,1
+CA,Canada,60.10867/-113.64258,0,0,0,0,0,0,0,0,15
+DK,Denmark,56/10,0,0,0,0,0,0,0,0,1
+FR,France,46/2,0,0,0,0,0,0,0,0,5
+DE,Germany,51.5/10.5,0,0,0,0,0,0,0,0,7
+IT,Italy,42.83333/12.83333,0,0,0,0,0,0,0,0,1
+NL,Netherlands,52.25/5.75,0,0,0,0,0,0,0,0,1
+NZ,"New Zealand",'-42/174,0,0,0,0,0,0,0,0,1
+NO,Norway,62/10,0,0,0,0,0,0,0,0,1
+PY,Paraguay,'-23.33333/-58,0,0,0,0,0,0,0,0,2
+RU,"Russian Federation",60/100,0,0,0,0,0,0,0,0,1
+ES,Spain,40/-4,0,0,0,0,0,0,0,0,21
+SE,Sweden,62/15,0,0,0,0,0,0,0,0,2
+UK,"United Kingdom",54.75844/-2.69531,0,0,0,0,0,0,0,0,4
+VE,"Venezuela, Bolivarian Republic of",8/-66,0,0,0,0,0,0,0,0,2
+

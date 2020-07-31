@@ -1,0 +1,8 @@
+"# ------------------------------------"
+"Report: Impressions"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2019-07-22 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 1_wj4243ds"
+"# ------------------------------------"
+count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,count_loads
+891,508,396,342,104,0.11672278338945,1865

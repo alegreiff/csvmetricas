@@ -1,0 +1,22 @@
+"# ------------------------------------"
+"Report: Top Countries"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2020-06-03 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 1_7abpns5g"
+"# ------------------------------------"
+object_id,country,coordinates,count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,unique_known_users,avg_view_drop_off,count_loads
+CO,Colombia,4/-73.25,133,107,89,76,42,0.31578947368421,1,0.59022556390977,238
+BR,Brazil,'-10/-55,8,6,4,4,4,0.5,1,0.5625,9
+UY,Uruguay,'-33/-56,7,5,5,4,2,0.28571428571429,1,0.57142857142857,14
+AR,Argentina,'-34/-64,5,3,2,2,2,0.4,1,0.45,12
+MX,Mexico,23/-102,5,4,3,3,3,0.6,1,0.65,5
+EC,Ecuador,'-1.25/-78.25,4,2,1,1,1,0.25,1,0.3125,8
+PE,Peru,'-10/-75.25,3,1,1,1,1,0.33333333333333,1,0.33333333333333,7
+RU,"Russian Federation",60/100,2,1,1,1,1,0.5,1,0.5,2
+US,"United States",39.76/-98.5,2,2,1,1,1,0.5,1,0.625,2
+CA,Canada,60.10867/-113.64258,1,0,0,0,0,0,1,0,1
+CL,Chile,'-30/-71,1,1,0,0,0,0,1,0.25,2
+FR,France,46/2,1,1,1,1,1,1,1,1,1
+ES,Spain,40/-4,1,1,1,1,1,1,1,1,14
+CR,"Costa Rica",10/-84,0,0,0,0,0,0,0,0,1
+

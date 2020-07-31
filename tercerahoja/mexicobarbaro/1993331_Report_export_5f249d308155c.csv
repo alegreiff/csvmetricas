@@ -1,0 +1,29 @@
+"# ------------------------------------"
+"Report: Top Countries"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2019-09-25 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 1_uw27to39"
+"# ------------------------------------"
+object_id,country,coordinates,count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,unique_known_users,avg_view_drop_off,count_loads
+MX,Mexico,23/-102,105,48,29,21,4,0.038095238095238,1,0.24285714285714,185
+CO,Colombia,4/-73.25,57,30,23,19,8,0.14035087719298,1,0.35087719298246,130
+AR,Argentina,'-34/-64,30,22,17,12,2,0.066666666666667,1,0.44166666666667,48
+PE,Peru,'-10/-75.25,12,4,1,1,0,0,1,0.125,21
+UY,Uruguay,'-33/-56,8,4,2,2,1,0.125,1,0.28125,18
+EC,Ecuador,'-1.25/-78.25,7,2,2,1,0,0,1,0.17857142857143,14
+CL,Chile,'-30/-71,4,1,0,0,0,0,1,0.0625,5
+BR,Brazil,'-10/-55,3,3,2,2,1,0.33333333333333,1,0.66666666666667,7
+BO,"Bolivia, Plurinational State of",'-17/-65,2,1,0,0,0,0,1,0.125,5
+CA,Canada,60.10867/-113.64258,0,0,0,0,0,0,0,0,4
+CR,"Costa Rica",10/-84,0,0,0,0,0,0,0,0,1
+FR,France,46/2,0,0,0,0,0,0,0,0,3
+DE,Germany,51.5/10.5,0,0,0,0,0,0,0,0,4
+GT,Guatemala,15.5/-90.25,0,0,0,0,0,0,0,0,1
+NL,Netherlands,52.25/5.75,0,0,0,0,0,0,0,0,1
+RU,"Russian Federation",60/100,0,0,0,0,0,0,0,0,1
+ES,Spain,40/-4,0,0,0,0,0,0,0,0,7
+SE,Sweden,62/15,0,0,0,0,0,0,0,0,2
+UK,"United Kingdom",54.75844/-2.69531,0,0,0,0,0,0,0,0,2
+US,"United States",39.76/-98.5,0,0,0,0,0,0,0,0,35
+VE,"Venezuela, Bolivarian Republic of",8/-66,0,0,0,0,0,0,0,0,1
+

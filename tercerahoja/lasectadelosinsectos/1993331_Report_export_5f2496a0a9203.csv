@@ -1,0 +1,36 @@
+"# ------------------------------------"
+"Report: Top Countries"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2019-12-05 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_er2cy7d4"
+"# ------------------------------------"
+object_id,country,coordinates,count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,unique_known_users,avg_view_drop_off,count_loads
+CO,Colombia,4/-73.25,223,187,172,163,55,0.24663677130045,2,0.64686098654709,314
+MX,Mexico,23/-102,72,53,45,41,17,0.23611111111111,1,0.54166666666667,98
+BR,Brazil,'-10/-55,70,40,31,27,7,0.1,1,0.375,96
+AR,Argentina,'-34/-64,35,33,26,25,5,0.14285714285714,1,0.63571428571429,53
+PE,Peru,'-10/-75.25,16,14,12,12,2,0.125,1,0.625,34
+EC,Ecuador,'-1.25/-78.25,13,8,8,8,3,0.23076923076923,1,0.51923076923077,15
+UY,Uruguay,'-33/-56,11,7,6,6,1,0.090909090909091,1,0.45454545454545,16
+BO,"Bolivia, Plurinational State of",'-17/-65,6,3,3,3,0,0,1,0.375,10
+CL,Chile,'-30/-71,5,4,3,2,0,0,1,0.45,10
+GT,Guatemala,15.5/-90.25,5,4,4,3,1,0.2,1,0.6,6
+,'-,,3,2,2,2,2,0.66666666666667,1,0.66666666666667,3
+PY,Paraguay,'-23.33333/-58,2,1,1,1,0,0,1,0.375,4
+CR,"Costa Rica",10/-84,1,1,1,1,0,0,1,0.75,2
+SV,"El Salvador",13.83333/-88.91667,1,1,1,1,1,1,1,1,1
+TT,"Trinidad and Tobago",11/-61,1,1,1,1,1,1,1,1,1
+US,"United States",39.76/-98.5,1,1,1,1,1,1,1,1,14
+DK,Denmark,56/10,0,0,0,0,0,0,0,0,1
+FR,France,46/2,0,0,0,0,0,0,0,0,9
+DE,Germany,51.5/10.5,0,0,0,0,0,0,0,0,7
+HK,"Hong Kong",22.25/114.16667,0,0,0,0,0,0,0,0,1
+IT,Italy,42.83333/12.83333,0,0,0,0,0,0,0,0,1
+NL,Netherlands,52.25/5.75,0,0,0,0,0,0,0,0,3
+NZ,"New Zealand",'-42/174,0,0,0,0,0,0,0,0,1
+PT,Portugal,39.6945/-8.13057,0,0,0,0,0,0,0,0,5
+ES,Spain,40/-4,0,0,0,0,0,0,0,0,4
+CH,Switzerland,47.00016/8.01427,0,0,0,0,0,0,0,0,2
+TR,Turkey,39/35,0,0,0,0,0,0,0,0,1
+VE,"Venezuela, Bolivarian Republic of",8/-66,0,0,0,0,0,0,0,0,1
+

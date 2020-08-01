@@ -1,0 +1,27 @@
+"# ------------------------------------"
+"Report: Top Countries"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2019-04-04 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_gupxpgjw"
+"# ------------------------------------"
+object_id,country,coordinates,count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,unique_known_users,avg_view_drop_off,count_loads
+CO,Colombia,4/-73.25,62,34,26,19,13,0.20967741935484,2,0.37096774193548,124
+MX,Mexico,23/-102,19,13,9,6,5,0.26315789473684,1,0.43421052631579,49
+AR,Argentina,'-34/-64,15,9,7,5,4,0.26666666666667,1,0.41666666666667,30
+BR,Brazil,'-10/-55,7,4,4,2,2,0.28571428571429,1,0.42857142857143,11
+EC,Ecuador,'-1.25/-78.25,7,5,3,3,2,0.28571428571429,1,0.46428571428571,12
+PE,Peru,'-10/-75.25,6,4,2,2,1,0.16666666666667,1,0.375,10
+CL,Chile,'-30/-71,5,4,3,1,1,0.2,1,0.45,5
+DO,"Dominican Republic",19/-70.66667,5,4,2,2,1,0.2,1,0.45,9
+BO,"Bolivia, Plurinational State of",'-17/-65,2,1,1,1,1,0.5,1,0.5,2
+UY,Uruguay,'-33/-56,2,2,2,1,0,0,1,0.625,7
+FR,France,46/2,1,1,1,1,0,0,1,0.75,2
+GT,Guatemala,15.5/-90.25,1,1,0,0,0,0,1,0.25,1
+IT,Italy,42.83333/12.83333,1,1,1,1,1,1,1,1,1
+ES,Spain,40/-4,1,0,0,0,0,0,1,0,1
+UK,"United Kingdom",54.75844/-2.69531,1,0,0,0,0,0,1,0,1
+US,"United States",39.76/-98.5,1,1,1,0,0,0,1,0.5,3
+VE,"Venezuela, Bolivarian Republic of",8/-66,1,0,0,0,0,0,1,0,2
+CR,"Costa Rica",10/-84,0,0,0,0,0,0,0,0,3
+PR,"Puerto Rico",18.24829/-66.49989,0,0,0,0,0,0,0,0,1
+

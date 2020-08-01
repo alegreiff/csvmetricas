@@ -1,0 +1,42 @@
+"# ------------------------------------"
+"Report: Top Countries"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2017-01-19 05:00:00 - 2020-08-02 04:59:59 (GMT)"
+"Filtered entries: 0_86ybxmll"
+"# ------------------------------------"
+object_id,country,coordinates,count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,unique_known_users,avg_view_drop_off,count_loads
+CO,Colombia,4/-73.25,1064,837,740,681,226,0.21240601503759,2,0.58364661654135,1782
+MX,Mexico,23/-102,53,39,36,33,9,0.16981132075472,1,0.55188679245283,93
+AR,Argentina,'-34/-64,45,33,29,25,9,0.2,1,0.53333333333333,94
+BR,Brazil,'-10/-55,36,22,18,17,4,0.11111111111111,1,0.42361111111111,70
+PE,Peru,'-10/-75.25,24,16,14,13,3,0.125,1,0.47916666666667,38
+EC,Ecuador,'-1.25/-78.25,23,19,18,15,2,0.08695652173913,1,0.58695652173913,40
+CL,Chile,'-30/-71,15,10,10,8,0,0,1,0.46666666666667,29
+UY,Uruguay,'-33/-56,11,9,7,7,0,0,1,0.52272727272727,24
+CR,"Costa Rica",10/-84,6,3,3,3,0,0,1,0.375,9
+SV,"El Salvador",13.83333/-88.91667,2,1,1,1,0,0,1,0.375,2
+PA,Panama,9/-80,2,2,2,2,1,0.5,1,0.875,3
+VE,"Venezuela, Bolivarian Republic of",8/-66,2,2,2,2,1,0.5,1,0.875,5
+DO,"Dominican Republic",19/-70.66667,1,1,1,1,0,0,1,0.75,1
+GT,Guatemala,15.5/-90.25,1,1,1,1,0,0,1,0.75,1
+HN,Honduras,15/-86.5,1,1,1,0,0,0,1,0.5,1
+PY,Paraguay,'-23.33333/-58,1,0,0,0,0,0,1,0,3
+PR,"Puerto Rico",18.24829/-66.49989,1,1,1,1,1,1,1,1,1
+AU,Australia,'-25/135,0,0,0,0,0,0,0,0,2
+BE,Belgium,50.75/4.5,0,0,0,0,0,0,0,0,1
+BO,"Bolivia, Plurinational State of",'-17/-65,0,0,0,0,0,0,0,0,2
+CA,Canada,60.10867/-113.64258,0,0,0,0,0,0,0,0,3
+CZ,"Czech Republic",49.75/15,0,0,0,0,0,0,0,0,7
+DK,Denmark,56/10,0,0,0,0,0,0,0,0,1
+FR,France,46/2,0,0,0,0,0,0,0,0,4
+DE,Germany,51.5/10.5,0,0,0,0,0,0,0,0,4
+NO,Norway,62/10,0,0,0,0,0,0,0,0,1
+PL,Poland,52/20,0,0,0,0,0,0,0,0,4
+PT,Portugal,39.6945/-8.13057,0,0,0,0,0,0,0,0,2
+ES,Spain,40/-4,0,0,0,0,0,0,0,0,7
+SE,Sweden,62/15,0,0,0,0,0,0,0,0,1
+CH,Switzerland,47.00016/8.01427,0,0,0,0,0,0,0,0,2
+TW,"Taiwan, Province of China",24/121,0,0,0,0,0,0,0,0,1
+TH,Thailand,15.5/101,0,0,0,0,0,0,0,0,1
+US,"United States",39.76/-98.5,0,0,0,0,0,0,0,0,11
+

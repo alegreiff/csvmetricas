@@ -1,0 +1,13 @@
+"# ------------------------------------"
+"Report: End user"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2016-01-01 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"# ------------------------------------"
+kuser_id,name,added_entries,deleted_entries,total_entries,added_storage_mb,deleted_storage_mb,total_storage_mb,added_msecs,deleted_msecs,total_msecs
+79264101,bgiles@dimtec.com,440,12,428,1460564.4757957,202695.2339859,1257869.2418098,1371917000,31756000,1340161000
+94834542,yealexandrach@gmail.com,113,3,110,302258.41064358,118772.93593884,183485.47470474,236257000,12204000,224053000
+355666391,support@dimtec.freshdesk.com,17,1,16,30355.900913239,8869.4405956268,21486.460317612,27749000,1091000,26658000
+222736012,amejia@dimtec.com,1,0,1,3614.8757295609,1.0810871124268,3613.7946424484,2977000,0,2977000
+79264191,__ADMIN__36734,0,0,3,0,0,0,0,0,0
+79264241,__ADMIN__324,0,0,2,0,0,0,0,0,0
+

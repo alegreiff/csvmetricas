@@ -1,0 +1,11 @@
+"# ------------------------------------"
+"Report: Top Countries"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2016-10-11 05:00:00 - 2020-08-02 04:59:59 (GMT)"
+"Filtered entries: 0_b1a6yudj"
+"# ------------------------------------"
+object_id,country,coordinates,count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,unique_known_users,avg_view_drop_off,count_loads
+CO,Colombia,4/-73.25,9,1,1,1,1,0.11111111111111,2,0.11111111111111,14
+MX,Mexico,23/-102,1,1,1,1,1,1,1,1,1
+AR,Argentina,'-34/-64,0,0,0,0,0,0,0,0,1
+

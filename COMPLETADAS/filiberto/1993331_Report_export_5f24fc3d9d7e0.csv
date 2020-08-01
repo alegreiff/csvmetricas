@@ -1,0 +1,20 @@
+"# ------------------------------------"
+"Report: Top Countries"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2016-11-22 05:00:00 - 2020-08-02 04:59:59 (GMT)"
+"Filtered entries: 0_69k0fg58"
+"# ------------------------------------"
+object_id,country,coordinates,count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,unique_known_users,avg_view_drop_off,count_loads
+CO,Colombia,4/-73.25,54,52,51,49,17,0.31481481481481,2,0.78240740740741,78
+AR,Argentina,'-34/-64,23,15,16,14,7,0.30434782608696,1,0.56521739130435,27
+BR,Brazil,'-10/-55,16,10,9,8,6,0.375,1,0.515625,18
+MX,Mexico,23/-102,5,4,4,4,2,0.4,2,0.7,11
+PE,Peru,'-10/-75.25,5,3,2,2,0,0,1,0.35,6
+UY,Uruguay,'-33/-56,5,2,2,2,1,0.2,1,0.35,9
+VE,"Venezuela, Bolivarian Republic of",8/-66,5,2,1,1,0,0,1,0.2,4
+EC,Ecuador,'-1.25/-78.25,3,3,3,3,0,0,1,0.75,3
+BO,"Bolivia, Plurinational State of",'-17/-65,2,2,1,1,0,0,1,0.5,3
+PA,Panama,9/-80,1,1,1,1,0,0,1,0.75,1
+PR,"Puerto Rico",18.24829/-66.49989,1,1,1,1,1,1,1,1,1
+PY,Paraguay,'-23.33333/-58,0,0,0,0,0,0,0,0,1
+

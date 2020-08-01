@@ -1,0 +1,28 @@
+"# ------------------------------------"
+"Report: Top Countries"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2018-10-23 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_rsogmuff"
+"# ------------------------------------"
+object_id,country,coordinates,count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,unique_known_users,avg_view_drop_off,count_loads
+CO,Colombia,4/-73.25,285,132,99,79,32,0.11228070175439,1,0.3,482
+MX,Mexico,23/-102,20,7,6,3,1,0.05,1,0.2125,39
+BR,Brazil,'-10/-55,14,2,2,0,0,0,1,0.071428571428571,20
+AR,Argentina,'-34/-64,9,4,3,2,1,0.11111111111111,1,0.27777777777778,20
+US,"United States",39.76/-98.5,9,2,1,1,0,0,1,0.11111111111111,12
+CL,Chile,'-30/-71,8,3,3,2,1,0.125,1,0.28125,14
+PE,Peru,'-10/-75.25,7,0,0,0,0,0,1,0,18
+EC,Ecuador,'-1.25/-78.25,5,2,1,1,1,0.2,1,0.25,10
+ES,Spain,40/-4,4,1,1,1,1,0.25,1,0.25,4
+UY,Uruguay,'-33/-56,4,1,0,0,0,0,1,0.0625,11
+FR,France,46/2,2,1,1,1,0,0,1,0.375,4
+AU,Australia,'-25/135,1,0,0,0,0,0,1,0,1
+DO,"Dominican Republic",19/-70.66667,1,1,1,1,0,0,1,0.75,1
+DE,Germany,51.5/10.5,1,1,0,0,0,0,1,0.25,1
+PY,Paraguay,'-23.33333/-58,1,0,0,0,0,0,1,0,1
+PT,Portugal,39.6945/-8.13057,1,0,0,0,0,0,1,0,1
+SE,Sweden,62/15,1,0,0,0,0,0,1,0,1
+VE,"Venezuela, Bolivarian Republic of",8/-66,1,1,1,1,0,0,1,0.75,1
+RU,"Russian Federation",60/100,0,0,0,0,0,0,0,0,1
+CH,Switzerland,47.00016/8.01427,0,0,0,0,0,0,0,0,1
+

@@ -1,0 +1,8 @@
+"# ------------------------------------"
+"Report: Impressions"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2017-08-28 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_3k5rz5oq"
+"# ------------------------------------"
+count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,count_loads
+725,549,497,467,93,0.12827586206897,1378

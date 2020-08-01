@@ -1,0 +1,37 @@
+"# ------------------------------------"
+"Report: Top Countries"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2018-07-15 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_xle1gxd7"
+"# ------------------------------------"
+object_id,country,coordinates,count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,unique_known_users,avg_view_drop_off,count_loads
+CO,Colombia,4/-73.25,1133,791,669,574,257,0.22683142100618,2,0.50551632833186,1789
+,'-,,4,3,3,3,0,0,1,0.5625,17
+UK,"United Kingdom",54.75844/-2.69531,2,0,0,0,0,0,1,0,15
+AR,Argentina,'-34/-64,1,1,1,0,0,0,1,0.5,68
+US,"United States",39.76/-98.5,1,0,0,0,0,0,1,0,33
+AU,Australia,'-25/135,0,0,0,0,0,0,0,0,1
+BH,Bahrain,26.03333/50.55,0,0,0,0,0,0,0,0,1
+BE,Belgium,50.75/4.5,0,0,0,0,0,0,0,0,3
+BR,Brazil,'-10/-55,0,0,0,0,0,0,0,0,45
+CA,Canada,60.10867/-113.64258,0,0,0,0,0,0,0,0,6
+CL,Chile,'-30/-71,0,0,0,0,0,0,0,0,17
+CR,"Costa Rica",10/-84,0,0,0,0,0,0,0,0,6
+DK,Denmark,56/10,0,0,0,0,0,0,0,0,1
+EC,Ecuador,'-1.25/-78.25,0,0,0,0,0,0,0,0,8
+SV,"El Salvador",13.83333/-88.91667,0,0,0,0,0,0,0,0,2
+FR,France,46/2,0,0,0,0,0,0,0,0,3
+DE,Germany,51.5/10.5,0,0,0,0,0,0,0,0,6
+IE,Ireland,53/-8,0,0,0,0,0,0,0,0,1
+IL,Israel,31.5/34.75,0,0,0,0,0,0,0,0,1
+IT,Italy,42.83333/12.83333,0,0,0,0,0,0,0,0,6
+MX,Mexico,23/-102,0,0,0,0,0,0,0,0,56
+NL,Netherlands,52.25/5.75,0,0,0,0,0,0,0,0,5
+PA,Panama,9/-80,0,0,0,0,0,0,0,0,2
+PE,Peru,'-10/-75.25,0,0,0,0,0,0,0,0,25
+PT,Portugal,39.6945/-8.13057,0,0,0,0,0,0,0,0,1
+RO,Romania,46/25,0,0,0,0,0,0,0,0,2
+ES,Spain,40/-4,0,0,0,0,0,0,0,0,7
+UY,Uruguay,'-33/-56,0,0,0,0,0,0,0,0,9
+VE,"Venezuela, Bolivarian Republic of",8/-66,0,0,0,0,0,0,0,0,2
+

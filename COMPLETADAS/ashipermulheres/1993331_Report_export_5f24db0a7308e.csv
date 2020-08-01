@@ -1,0 +1,21 @@
+"# ------------------------------------"
+"Report: Top Countries"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2018-03-20 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_im5nygma"
+"# ------------------------------------"
+object_id,country,coordinates,count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,unique_known_users,avg_view_drop_off,count_loads
+CO,Colombia,4/-73.25,23,13,11,8,5,0.21739130434783,2,0.40217391304348,67
+AR,Argentina,'-34/-64,8,5,3,3,2,0.25,1,0.40625,13
+MX,Mexico,23/-102,5,4,3,2,1,0.2,1,0.5,22
+BR,Brazil,'-10/-55,4,2,2,2,2,0.5,1,0.5,5
+EC,Ecuador,'-1.25/-78.25,4,2,0,0,0,0,1,0.125,8
+UY,Uruguay,'-33/-56,3,0,0,0,0,0,1,0,5
+CL,Chile,'-30/-71,1,0,0,0,0,0,1,0,2
+DO,"Dominican Republic",19/-70.66667,1,1,1,1,1,1,1,1,1
+VE,"Venezuela, Bolivarian Republic of",8/-66,1,0,0,0,0,0,1,0,1
+FR,France,46/2,0,0,0,0,0,0,0,0,2
+IT,Italy,42.83333/12.83333,0,0,0,0,0,0,0,0,1
+ES,Spain,40/-4,0,0,0,0,0,0,0,0,1
+US,"United States",39.76/-98.5,0,0,0,0,0,0,0,0,2
+

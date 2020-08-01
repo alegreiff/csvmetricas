@@ -1,0 +1,19 @@
+"# ------------------------------------"
+"Report: Top Countries"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2018-03-22 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_yt0eute8"
+"# ------------------------------------"
+object_id,country,coordinates,count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,unique_known_users,avg_view_drop_off,count_loads
+BR,Brazil,'-10/-55,15,5,3,3,3,0.2,1,0.23333333333333,30
+CO,Colombia,4/-73.25,10,3,3,1,1,0.1,2,0.2,73
+AR,Argentina,'-34/-64,2,1,1,1,0,0,1,0.375,3
+CL,Chile,'-30/-71,2,1,1,1,1,0.5,1,0.5,2
+UY,Uruguay,'-33/-56,2,1,1,1,1,0.5,1,0.5,3
+DO,"Dominican Republic",19/-70.66667,1,0,0,0,0,0,1,0,1
+MX,Mexico,23/-102,1,1,1,1,0,0,1,0.75,3
+EC,Ecuador,'-1.25/-78.25,0,0,0,0,0,0,0,0,1
+FR,France,46/2,0,0,0,0,0,0,0,0,1
+PE,Peru,'-10/-75.25,0,0,0,0,0,0,0,0,1
+UK,"United Kingdom",54.75844/-2.69531,0,0,0,0,0,0,0,0,1
+

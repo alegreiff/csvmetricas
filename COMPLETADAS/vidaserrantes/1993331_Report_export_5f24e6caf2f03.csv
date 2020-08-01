@@ -1,0 +1,37 @@
+"# ------------------------------------"
+"Report: Top Countries"
+"Please note that the data below is filtered based on the filter applied in the report"
+"Filtered dates: 2017-08-18 05:00:00 - 2020-08-01 04:59:59 (GMT)"
+"Filtered entries: 0_adcwuhhh"
+"# ------------------------------------"
+object_id,country,coordinates,count_plays,count_plays_25,count_plays_50,count_plays_75,count_plays_100,play_through_ratio,unique_known_users,avg_view_drop_off,count_loads
+MX,Mexico,23/-102,219,95,64,49,13,0.059360730593607,1,0.25228310502283,529
+CO,Colombia,4/-73.25,181,80,65,48,26,0.14364640883978,2,0.3024861878453,579
+AR,Argentina,'-34/-64,31,14,9,6,2,0.064516129032258,1,0.25,135
+EC,Ecuador,'-1.25/-78.25,28,9,6,5,3,0.10714285714286,1,0.20535714285714,61
+BR,Brazil,'-10/-55,20,7,6,3,1,0.05,1,0.2125,85
+PE,Peru,'-10/-75.25,19,11,8,6,2,0.10526315789474,1,0.35526315789474,58
+CL,Chile,'-30/-71,18,5,1,0,0,0,1,0.083333333333333,64
+UY,Uruguay,'-33/-56,9,6,5,5,2,0.22222222222222,1,0.5,41
+BO,"Bolivia, Plurinational State of",'-17/-65,3,0,0,0,0,0,1,0,7
+CR,"Costa Rica",10/-84,2,2,2,1,1,0.5,1,0.75,2
+SV,"El Salvador",13.83333/-88.91667,2,1,1,1,0,0,1,0.375,4
+HN,Honduras,15/-86.5,2,0,0,0,0,0,1,0,4
+PY,Paraguay,'-23.33333/-58,2,0,0,0,0,0,1,0,6
+VE,"Venezuela, Bolivarian Republic of",8/-66,2,1,0,0,0,0,1,0.125,4
+,'-,,1,0,0,0,0,0,1,0,1
+DO,"Dominican Republic",19/-70.66667,1,0,0,0,0,0,1,0,1
+FR,France,46/2,1,1,0,0,0,0,1,0.25,19
+GT,Guatemala,15.5/-90.25,1,0,0,0,0,0,1,0,3
+US,"United States",39.76/-98.5,1,1,1,1,0,0,1,0.75,16
+AU,Australia,'-25/135,0,0,0,0,0,0,0,0,1
+BE,Belgium,50.75/4.5,0,0,0,0,0,0,0,0,1
+CA,Canada,60.10867/-113.64258,0,0,0,0,0,0,0,0,6
+FI,Finland,64/26,0,0,0,0,0,0,0,0,1
+DE,Germany,51.5/10.5,0,0,0,0,0,0,0,0,3
+NL,Netherlands,52.25/5.75,0,0,0,0,0,0,0,0,1
+PT,Portugal,39.6945/-8.13057,0,0,0,0,0,0,0,0,2
+ES,Spain,40/-4,0,0,0,0,0,0,0,0,12
+CH,Switzerland,47.00016/8.01427,0,0,0,0,0,0,0,0,1
+UK,"United Kingdom",54.75844/-2.69531,0,0,0,0,0,0,0,0,4
+
